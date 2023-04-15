@@ -65,7 +65,7 @@
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E5V-RK-mcA">
-                                                        <rect key="frame" x="235.33333333333334" y="0.0" width="117.66666666666666" height="60"/>
+                                                        <rect key="frame" x="235.33333333333337" y="0.0" width="117.66666666666666" height="60"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="60" id="em6-Et-PjZ"/>
                                                         </constraints>
@@ -94,7 +94,7 @@
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <stackView opaque="NO" contentMode="scaleToFill" spacing="27" translatesAutoresizingMaskIntoConstraints="NO" id="h5s-qN-Zsc" userLabel="Split Stack View">
-                                                <rect key="frame" x="104.33333333333333" y="202" width="144.33333333333337" height="32"/>
+                                                <rect key="frame" x="104.33333333333331" y="202" width="144.33333333333337" height="32"/>
                                                 <subviews>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SV9-bj-dsN">
                                                         <rect key="frame" x="0.0" y="0.0" width="23.333333333333332" height="32"/>
@@ -170,11 +170,10 @@
                                 </constraints>
                             </stackView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Yt-OF-vOa">
-                                <rect key="frame" x="88.666666666666686" y="776" width="216" height="42"/>
+                                <rect key="frame" x="126.66666666666669" y="776" width="140" height="42"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="42" id="78e-ES-bPN"/>
-                                    <constraint firstAttribute="width" constant="216" id="dEz-A3-wN9"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="25"/>
                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
